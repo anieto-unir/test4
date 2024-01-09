@@ -1,4 +1,3 @@
-asdfasfdafadfafafsdf
 LINEA1
 LINEA2
 LINEA3
